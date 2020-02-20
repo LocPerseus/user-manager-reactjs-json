@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "name": "Pham Hoang Loc",
+        "tel": "3123123123",
+        "permision": 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyen Phuc Chuong",
+        "tel": "21312321",
+        "permision": 1
+    },
+    {
+        "id": 3,
+        "name": "Duong Hoang Dat",
+        "tel": "12323233",
+        "permision": 2
+    },
+    {
+        "id": 4,
+        "name": "Hoang Dinh Thuc",
+        "tel": "11111132323",
+        "permision": 3
+    }
+]

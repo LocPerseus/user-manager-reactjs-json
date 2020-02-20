@@ -1,0 +1,7 @@
+1. Viết các tương tác để thao tác thực hiện trên frontend
+- Xử lý cho nút hiển thị form thêm mới: thêm mới, đóng lại thông qua state
+- Cách kết nối các component thông qua props:
+    + Làm thế nào search form tương tác vs app
+2. Làm chức năng tìm kiếm dữ liệu
+- Lấy từ khóa cần tìm qua form tìm kiếm
+- So sánh từ khóa cần tìm để lấy ra dữ liệu
